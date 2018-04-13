@@ -119,12 +119,12 @@ native-country:discrete
 			{United-States} 
 			{Outlying-US(Guam-USVI-etc)}} 
 		{Canada}} 
-			{Middle-America 
-				{Mexico} 
-				{Honduras} 
-				{Guatemala} 
-				{Nicaragua} 
-				{El-Salvador}} 
+	{Middle-America 
+		{Mexico} 
+		{Honduras} 
+		{Guatemala} 
+		{Nicaragua} 
+		{El-Salvador}} 
 	{South-America 
 		{Western-South-America 
 			{Ecuador} 
